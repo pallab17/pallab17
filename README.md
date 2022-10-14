@@ -8,3 +8,6 @@
 pallab17/pallab17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+[![@pallab17's Holopin board](https://holopin.me/pallab17)](https://holopin.io/@pallab17)
+--->
