@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Pallab Banerjee aka PB7</h1>
 <h3 align="center">A passionate frontend developer and a problem solver from India</h3>
 <img src="https://user-images.githubusercontent.com/104641128/230281715-9f69e912-595a-4396-b116-afa6a5c6c65e.gif" alt="cc" align="right" width="400">
-
+<!--
 <p align="left"> <img src="https://camo.githubusercontent.com/65cea1a985cfac374a7f536a349521a8afce79fe959d332ada2cd5222b826fa5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d736179616b3936266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="pallab17" /> </p>
+-->
 
 - 🔭 I’m currently working on [front-end projects](https://github.com/pallab17/Namaste-react)
 
